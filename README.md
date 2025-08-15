@@ -16,5 +16,5 @@ Former U.S. Navy Corpsman with 16 years of service, now a Systems Analyst with E
 
 ## Contact
 - Email: darren.c.sweely@gmail.com
-- LinkedIn: [[YourLinkedInHere]](https://www.linkedin.com/in/darren-sweely)
+- LinkedIn: (https://www.linkedin.com/in/darren-sweely)
 - Resume: [Download PDF](#)
