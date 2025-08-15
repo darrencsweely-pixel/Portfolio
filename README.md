@@ -15,6 +15,6 @@ Former U.S. Navy Corpsman with 16 years of service, now a Systems Analyst with E
 - **[Secure AI Clinical Decision Support Prototype](#)** – *(Coming Soon)* AI-powered tool with HIPAA security controls.
 
 ## Contact
-- Email: [YourEmailHere]
+- Email: darren.c.sweely@gmail.com
 - LinkedIn: [YourLinkedInHere]
 - Resume: [Download PDF](#)
