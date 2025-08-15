@@ -1,0 +1,25 @@
+GITHUB PAGES QUICK START
+
+1) Create a new repository named `portfolio` on GitHub.
+   - Initialize with a README (you can replace it with the one in this zip).
+
+2) Enable GitHub Pages:
+   - Repo -> Settings -> Pages ->
+   - Build and deployment: Deploy from a branch
+   - Branch: `main` (root) -> Save
+   - Your site will live at: https://<your-username>.github.io/portfolio/
+
+3) Upload these files:
+   - index.html
+   - assets/style.css
+   - README.md (optional but recommended)
+
+4) Edit placeholders:
+   - In index.html, update contact links and GitHub URLs.
+   - Replace 'coming soon' repo links as you create projects.
+   - Commit changes; Pages updates automatically in ~1-2 minutes.
+
+5) Add a custom domain later (optional):
+   - Buy a domain (e.g., Namecheap, Google Domains)
+   - In repo Settings -> Pages -> Custom domain
+   - Add DNS A/ALIAS records to GitHub Pages as instructed.

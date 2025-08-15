@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Darren Sweely — Healthcare AI Security Portfolio</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header class="container">
+  <h1>Darren Sweely</h1>
+  <p class="subtitle">Healthcare AI Security • Epic Systems Analyst • Azure-focused</p>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#certs">Certifications</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main class="container">
+  <section id="about" class="card">
+    <h2>About Me</h2>
+    <p>
+      Former U.S. Navy Corpsman (16 years). Now a Systems Analyst at Epic specializing in ClinDoc, Stork,
+      and Inpatient Quality reporting. Pursuing a BS in Computer Science (SNHU) with a focus on AI, cloud, and
+      cybersecurity in healthcare. Building toward a niche in <strong>Healthcare AI Security</strong> — securing AI/LLM and data
+      pipelines under HIPAA/HITRUST on Azure.
+    </p>
+  </section>
+
+  <section id="certs" class="card">
+    <h2>Certifications</h2>
+    <ul class="timeline">
+      <li><span class="when">Planned 2026</span> AZ-900 • Microsoft Azure Fundamentals</li>
+      <li><span class="when">Planned 2027 (opt.)</span> SC-900 • Security, Compliance, Identity Fundamentals</li>
+      <li><span class="when">Planned 2028</span> AZ-500 • Azure Security Engineer Associate</li>
+      <li><span class="when">Planned 2029</span> SC-100 • Microsoft Cybersecurity Architect</li>
+      <li><span class="when">Planned 2030</span> CCSP • Certified Cloud Security Professional (ISC)²</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="card">
+    <h2>Projects</h2>
+    <div class="grid">
+      <article class="project">
+        <h3>HIPAA-Compliant Azure Data Storage Pipeline</h3>
+        <p>Secure storage for synthetic healthcare datasets using Azure Blob Storage + Key Vault, with RBAC and encryption at rest/in transit.</p>
+        <ul class="tags"><li>Azure</li><li>Security</li><li>Python</li></ul>
+        <p><a href="#" target="_blank" rel="noopener">GitHub Repo (coming soon)</a></p>
+      </article>
+
+      <article class="project">
+        <h3>Secure AI Clinical Decision Support Prototype</h3>
+        <p>End-to-end pipeline for a simple model inference with audit logging, secrets management, and PHI-safe design.</p>
+        <ul class="tags"><li>AI</li><li>MLOps</li><li>Compliance</li></ul>
+        <p><a href="#" target="_blank" rel="noopener">GitHub Repo (coming soon)</a></p>
+      </article>
+    </div>
+  </section>
+
+  <section id="contact" class="card">
+    <h2>Contact</h2>
+    <ul>
+      <li><strong>Email:</strong> your.email@example.com</li>
+      <li><strong>LinkedIn:</strong> <a href="#" target="_blank" rel="noopener">Add your profile link</a></li>
+      <li><strong>Resume:</strong> <a href="#" target="_blank" rel="noopener">Add PDF link</a></li>
+      <li><strong>GitHub:</strong> <a href="#" target="_blank" rel="noopener">https://github.com/YOUR-USERNAME</a></li>
+    </ul>
+  </section>
+</main>
+
+<footer class="container small">
+  <p>© <span id="year"></span> Darren Sweely • Built for a career in Healthcare AI Security</p>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
