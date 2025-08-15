@@ -1,19 +1,20 @@
 # Darren Sweely – Healthcare AI Security Portfolio
 
-This repository hosts my public portfolio site, focused on **Healthcare AI Security** (Azure-first) with Epic EHR experience.
+## About Me
+Former U.S. Navy Corpsman with 16 years of service, now a Systems Analyst with Epic specializing in ClinDoc, Stork, and Inpatient Quality reporting. Pursuing a BS in Computer Science with a focus on AI, cloud, and cybersecurity in healthcare. 
 
-### Live site
-Once GitHub Pages is enabled, it will be available at:
-`https://<your-username>.github.io/portfolio/`
+## Certifications
+- AZ-900: Microsoft Azure Fundamentals *(Planned: 2026)*
+- SC-900: Microsoft Security, Compliance, and Identity *(Planned: 2027)*
+- AZ-500: Azure Security Engineer Associate *(Planned: 2028)*
+- SC-100: Microsoft Cybersecurity Architect Expert *(Planned: 2029)*
+- CCSP: Certified Cloud Security Professional *(Planned: 2030)*
 
-### Structure
-- `index.html` – main site
-- `assets/style.css` – minimal styling
-- Future: add `/projects/<project-name>` folders with READMEs, screenshots, and links to code repos.
+## Projects
+- **[HIPAA-Compliant Azure Data Storage Pipeline](#)** – *(Coming Soon)* Secure cloud storage for AI healthcare datasets.
+- **[Secure AI Clinical Decision Support Prototype](#)** – *(Coming Soon)* AI-powered tool with HIPAA security controls.
 
-### Roadmap
-- Add first two projects:
-  - HIPAA-Compliant Azure Data Storage Pipeline
-  - Secure AI Clinical Decision Support Prototype
-- Link repos after they’re created and pushed.
-- Add blog posts to document design choices and compliance thinking.
+## Contact
+- Email: [YourEmailHere]
+- LinkedIn: [YourLinkedInHere]
+- Resume: [Download PDF](#)
