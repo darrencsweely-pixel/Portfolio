@@ -7,6 +7,8 @@ Former U.S. Navy Corpsman with 16 years of service, now a Systems Analyst with E
 | Certification | Number | Date Earned |
 |---------------|--------|-------------|
 | EpicCare Inpatient Clinical Documentation | 1469546751 | 2025 |
+| Stork | 1496356712 | 2025 |
+| Inpatient Regulatory Reporting | 1506012748 | 2025 |
 - Security+ *(Planned: 2026)*
 - AZ-900: Microsoft Azure Fundamentals *(Planned: 2026)*
 - SC-900: Microsoft Security, Compliance, and Identity *(Planned: 2027)*
